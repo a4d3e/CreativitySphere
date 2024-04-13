@@ -1,7 +1,7 @@
 # CreativitySphere
 
 
-![CreativitySphere Logo]![cretivityspherelogo](https://github.com/a4d3e/CreativitySphere/assets/142813108/5be71e5c-9daa-4e64-9965-ae33dac5b596)
+![CreativitySphere Logo](https://github.com/a4d3e/CreativitySphere/assets/142813108/5be71e5c-9daa-4e64-9965-ae33dac5b596)
 
 ## About Us
 
