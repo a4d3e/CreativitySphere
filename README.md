@@ -1,13 +1,14 @@
 # CreativitySphere
 
 
-![CreativitySphere Logo](img/cretivityspherelogo.png)
+![CreativitySphere Logo]![cretivityspherelogo](https://github.com/a4d3e/CreativitySphere/assets/142813108/5be71e5c-9daa-4e64-9965-ae33dac5b596)
 
 ## About Us
 
 CreativitySphere is a platform dedicated to fostering creativity and connecting artists and art enthusiasts worldwide. Our mission is to provide a curated space where artists can showcase their work, engage with the art community, and explore new creative opportunities.
 
 ## Features
+
 
 - *Virtual Exhibitions:* Explore curated galleries and thematic exhibitions showcasing a diverse range of artwork.
 - *Community Interaction:* Engage with fellow artists and art enthusiasts through discussions, critiques, and collaborations.
@@ -18,9 +19,10 @@ CreativitySphere is a platform dedicated to fostering creativity and connecting 
 
 ## Meet the Team
 
-### John Doe
+### Ankit Tiwari
 Role: CEO & Founder
-Bio: John is a passionate artist and entrepreneur with a vision to empower the global art community.
+Bio: Ankit![Uploading cretivityspherelogo.png…]()
+ is a passionate artist and entrepreneur with a vision to empower the global art community.
 
 ### Jane Smith
 Role: Head of Operations
