@@ -1,6 +1,6 @@
 # CreativitySphere
 
-![CreativitySphere Logo](path/to/logo.png)
+![CreativitySphere Logo](img/cretivityspherelogo.png)
 
 ## About Us
 
