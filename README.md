@@ -1,6 +1,7 @@
 # CreativitySphere
 
-![CreativitySphere Logo]("D:\cretivity sphere logo.png")
+
+![CreativitySphere Logo](img/cretivityspherelogo.png)
 
 ## About Us
 
