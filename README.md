@@ -1,5 +1,6 @@
 # CreativitySphere
 
+
 ![CreativitySphere Logo](img/cretivityspherelogo.png)
 
 ## About Us
@@ -28,6 +29,10 @@ Bio: Jane brings years of experience in project management and operations to ens
 ### Michael Johnson
 Role: Lead Developer
 Bio: Michael is a talented developer with expertise in building intuitive and user-friendly platforms for creative communities.
+
+### John Doe
+Role: CEO & Founder
+Bio: John is a passionate artist and entrepreneur with a vision to empower the global art community.
 
 ## Project Image
 
