@@ -1,8 +1,6 @@
 # CreativitySphere
 
 
-![CreativitySphere Logo]![cretivityspherelogo](https://github.com/a4d3e/CreativitySphere/assets/142813108/5be71e5c-9daa-4e64-9965-ae33dac5b596)
-
 ## About Us
 
 CreativitySphere is a platform dedicated to fostering creativity and connecting artists and art enthusiasts worldwide. Our mission is to provide a curated space where artists can showcase their work, engage with the art community, and explore new creative opportunities.
@@ -20,22 +18,27 @@ CreativitySphere is a platform dedicated to fostering creativity and connecting 
 ## Meet the Team
 
 ### Ankit Tiwari
-Role: CEO & Founder
-Bio: Ankit![Uploading cretivityspherelogo.png…]()
- is a passionate artist and entrepreneur with a vision to empower the global art community.
+Role: Team Lead & Frontend Developer
+Bio: A passionate artist and entrepreneur with a vision to empower the global art community.
 
-### Jane Smith
-Role: Head of Operations
-Bio: Jane brings years of experience in project management and operations to ensure the smooth functioning of CreativitySphere.
+### Ruchita N. Chaudhari
+Role: Market and management
+Bio: Bring experience in project management and operations to ensure the smooth functioning of CreativitySphere.
 
-### Michael Johnson
-Role: Lead Developer
-Bio: Michael is a talented developer with expertise in building intuitive and user-friendly platforms for creative communities.
+### Akash Jadhav
+Role: Backend Developer
+Bio: A talented developer with expertise in building intuitive and user-friendly platforms for creative communities.
 
-### John Doe
-Role: CEO & Founder
-Bio: John is a passionate artist and entrepreneur with a vision to empower the global art community.
-
+### Om Raundal
+Role: Data Collector & Researcher
+Bio: Passionate data researcher and analyst adept at uncovering valuable insights from complex datasets
 ## Project Image
 
-![Project Image](path/to/project/image.png)
+![landingpage](https://github.com/a4d3e/CreativitySphere/assets/118653780/04169c68-c22c-44e4-b8ea-494f46b43efe)
+
+![homepage](https://github.com/a4d3e/CreativitySphere/assets/118653780/1f589b97-c085-4172-8b60-b72c97b1ffd6)
+
+![profilepage](https://github.com/a4d3e/CreativitySphere/assets/118653780/42203102-454c-4c97-9da7-2250185422b9)
+
+![signup](https://github.com/a4d3e/CreativitySphere/assets/118653780/1bf79dd9-efee-4c50-a342-15cc5648606e)
+
