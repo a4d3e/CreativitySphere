@@ -13,7 +13,7 @@ CreativitySphere is a platform dedicated to fostering creativity and connecting 
 - *Personalized Recommendations:* Discover new artists and artwork tailored to your interests and preferences.
 - *Art Sales:* Purchase artwork directly from artists and support the creative community.
 - *Portfolio Management:* Showcase your portfolio, manage your artwork, and track your artistic journey.
-- *Creative Collaboration Tools:* Collaborate with other artists on projects, workshops, and events.
+- *Create Awareness:* Free videos to create awareness about art.
 
 ## Meet the Team
 
