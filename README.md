@@ -29,5 +29,6 @@ CreativitySphere is a platform dedicated to fostering creativity and connecting 
 
 ![signup](https://github.com/a4d3e/CreativitySphere/assets/118653780/1bf79dd9-efee-4c50-a342-15cc5648606e)
 
-##Preview
+## Preview
+
 https://creativitysphere.netlify.app/
