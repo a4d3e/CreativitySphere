@@ -15,29 +15,6 @@ CreativitySphere is a platform dedicated to fostering creativity and connecting 
 - *Portfolio Management:* Showcase your portfolio, manage your artwork, and track your artistic journey.
 - *Create Awareness:* Free videos to create awareness about art.
 
-## Meet the Team
-
-### Ankit Tiwari
-Role: Team Lead & Frontend Developer
-
-Bio: A passionate artist and entrepreneur with a vision to empower the global art community.
-
-### Ruchita N. Chaudhari
-Role: Market and management
-
-Bio: Bring experience in project management and operations to ensure the smooth functioning of CreativitySphere.
-
-### Akash Jadhav
-Role: Backend Developer
-
-Bio: A talented developer with expertise in building intuitive and user-friendly platforms for creative communities.
-
-### Om Raundal
-Role: Data Collector & Researcher
-
-Bio: Passionate data researcher and analyst adept at uncovering valuable insights from complex datasets
-
-## Project Image
 
 ![landingpage](https://github.com/a4d3e/CreativitySphere/assets/118653780/04169c68-c22c-44e4-b8ea-494f46b43efe)
 
