@@ -1590,6 +1590,7 @@ input:checked + .toggle-bg {
 
 .pb-8 {
   padding-bottom: 2rem;
+  padding-top: 2rem;
 }
 
 .pt-8 {
@@ -1702,6 +1703,7 @@ input:checked + .toggle-bg {
 
 .tracking-tight {
   letter-spacing: -0.025em;
+  
 }
 
 .text-gray-800 {
@@ -2211,6 +2213,13 @@ input:checked + .toggle-bg {
   }
 }
 
+@media (max-width: 768px) { 
+  .tracking-tight {
+    margin-top: 4rem;
+   }
+  }
+
+
 @media (min-width: 1024px) {
   .lg\:order-2 {
     order: 2;
@@ -2444,4 +2453,9 @@ input:checked + .toggle-bg {
     font-size: 3.75rem;
     line-height: 1;
   }
+}
+@media (min-width: 769px) and (max-width: 1023px){
+  .tracking-tight {
+    margin-top: 4rem;
+   }
 }
